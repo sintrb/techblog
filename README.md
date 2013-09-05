@@ -1,4 +1,4 @@
-techblog
+Techblog
 ========
 
 My Techblog

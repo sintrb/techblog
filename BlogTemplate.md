@@ -1,6 +1,6 @@
 Blog Template
 
-Blog Title
-========
-
-Blog Body
+#Blog Title
+##Topic
+###Segment
+####Section

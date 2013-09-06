@@ -29,3 +29,4 @@ int main(int argc, char **argv)
 Of course, you can use code in a line. Such as <code>printf(frmstr, args...)</code> function.
 
 原文来自:[https://github.com/sintrb/techblog](https://github.com/sintrb/techblog)
+
